@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieAppTask</string>
+
+    <string name="api_key">a204dcd3</string>
+    <string name="internet_connection">Internet connection is down Please connect to the internet</string>
+    <string name="content_authority">com.android.movieapptask</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+    <string name="added_from_favorites">Added from favorites</string>
+    <string name="favorites">Favorites</string>
+    <string name="Write_movie_name">Write Movie Name Here</string>
+    <string name="please_enter_movie">Please Enter the Movie Name</string>
+    <string name="enqal">Enqal - Muhammad Nasser</string>
+</resources>
